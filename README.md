@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding/programming/development 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on Advance Image processing 
-- 📫 You can get in touch with me on various social media platform but on of my favorite is LinkedIn 
+- 📫 You can get in touch with me on various social media platform but one of my favorite is LinkedIn 
 
 <!---
 im-anukalp/im-anukalp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
