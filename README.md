@@ -14,7 +14,6 @@
 <a href="https://github.com/anukalp-mishra/DevOps-Project.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=DevOps-Project&theme=buefy" />
 </a>
-<hr>
 
 ###
 ## ⚡ Tech Stack
@@ -142,7 +141,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
 </div>
-
+<hr>
 ###
 
 <br clear="both">
