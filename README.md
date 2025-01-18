@@ -11,8 +11,8 @@
 <a href="https://github.com/anukalp-mishra/Resume-Screening.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=Resume-Screening&theme=buefy" />
 </a>
-<a href="https://github.com/anukalp-mishra/Timetable-management-system.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=Timetable-management-system&theme=buefy" />
+<a href="https://github.com/anukalp-mishra/DevOps-Project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=DevOps-Project&theme=buefy" />
 </a>
 <hr>
 
