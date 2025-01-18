@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Anukalp Mishra. A passionate DevOps Engineer from India.</h2>
 
 ###
-
+## ⚡ My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anukalp-mishra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anukalp-mishra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
+## ⚡ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -122,6 +122,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
+
+## ⚡ Top Repositories
+<a href="https://github.com/vikash-kumar01/demo-counter-app.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=demo-counter-app&theme=buefy" />
+</a>
+<a href="https://github.com/vikash-kumar01/installation_scripts.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=installation_scripts&theme=buefy" />
+</a>
+<hr>
 
 ###
 
