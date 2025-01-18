@@ -18,10 +18,7 @@
 
 ###
 
-###<img align="right" height="150" style="margin-top: 150px;" src="https://i.imgflip.com/65efzo.gif" />
-<div style="margin-top: 150px;">
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-</div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 ## ⚡ Tech Stack
