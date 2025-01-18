@@ -14,7 +14,6 @@
 <a href="https://github.com/anukalp-mishra/DevOps-Project.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=DevOps-Project&theme=buefy" />
 </a>
-<hr>
 
 ###
 
