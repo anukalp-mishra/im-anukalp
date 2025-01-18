@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Anukalp Mishra. <br>A passionate DevOps Engineer from India.</h2>
+<h2 align="left">Hi 👋! I'm Anukalp Mishra. A passionate DevOps Engineer from India.</h2>
 
 ###
 
