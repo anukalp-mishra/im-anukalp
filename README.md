@@ -8,11 +8,11 @@
 </div>
 
 ## ⚡ Top Repositories
-<a href="https://github.com/vikash-kumar01/demo-counter-app.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=demo-counter-app&theme=buefy" />
+<a href="https://github.com/anukalp-mishra/Resume-Screening.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=Resume-Screening&theme=buefy" />
 </a>
-<a href="https://github.com/vikash-kumar01/installation_scripts.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=installation_scripts&theme=buefy" />
+<a href="https://github.com/anukalp-mishra/Timetable-management-system.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=Timetable-management-system&theme=buefy" />
 </a>
 <hr>
 
