@@ -141,6 +141,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anukalp-mishra/anukalp-mishra/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://anukalp-mishra.github.io/anukalp-mishra/snake.svg)
 
 ###
