@@ -7,6 +7,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anukalp-mishra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## ⚡ Top Repositories
+<a href="https://github.com/vikash-kumar01/demo-counter-app.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=demo-counter-app&theme=buefy" />
+</a>
+<a href="https://github.com/vikash-kumar01/installation_scripts.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=installation_scripts&theme=buefy" />
+</a>
+<hr>
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -122,15 +131,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
-
-## ⚡ Top Repositories
-<a href="https://github.com/vikash-kumar01/demo-counter-app.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=demo-counter-app&theme=buefy" />
-</a>
-<a href="https://github.com/vikash-kumar01/installation_scripts.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=installation_scripts&theme=buefy" />
-</a>
-<hr>
 
 ###
 
