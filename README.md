@@ -14,10 +14,14 @@
 <a href="https://github.com/anukalp-mishra/DevOps-Project.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anukalp-mishra&repo=DevOps-Project&theme=buefy" />
 </a>
+<hr>
 
 ###
 
-<img align="right" height="150" style="margin-top: 150px;" src="https://i.imgflip.com/65efzo.gif"  />
+#<img align="right" height="150" style="margin-top: 150px;" src="https://i.imgflip.com/65efzo.gif" />
+<div style="margin-top: 150px;">
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+</div>
 
 ###
 ## ⚡ Tech Stack
