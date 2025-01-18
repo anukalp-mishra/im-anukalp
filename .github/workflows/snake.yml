@@ -22,12 +22,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake.svg file without specifying a palette (uses default system theme)
+      # Step 2: Generate the snake.svg file with github-dark theme (or github-light)
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: anukalp-mishra # Replace with your GitHub username
-          outputs: dist/snake.svg
+          github_user_name: anukalp-mishra
+          outputs: dist/snake.svg?palette=github-dark
 
       # Step 3: Push snake.svg to the output branch
       - name: Push snake.svg to the output branch
